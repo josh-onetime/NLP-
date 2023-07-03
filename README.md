@@ -20,9 +20,9 @@ Objective: The goal of this project is to build a sentiment analysis model that 
 
 <b>Model Evaluation</b>: Evaluated performance of model using appropriate metrics like accuracy, precision, recall, and F1 score.
 
-<b>Hyperparameter Tuning</b>: Tune the hyperparameters of your model to improve its performance. (not yet complete)
+<b>Hyperparameter Tuning</b>: Tune the hyperparameters of model to improve its performance. (not yet complete)
 
-<b>Model Interpretation</b>: Try to understand why your model is making certain predictions. You can use techniques like SHAP or LIME for model interpretation.
+<b>Model Interpretation</b>: Use techniques like SHAP or LIME for model interpretation. (not yet complete)
 
 
 
